@@ -2,7 +2,8 @@
 
 Devteds [Episode #6](https://devteds.com/episodes/6-deploy-dockerized-web-api-application-on-amazon-ec2-with-rds)
 
-Single-node deployment of a containerized API application on Amazon EC2 with database on RDS (Amazon Relational Database Service) using docker machine and docker compose.
+Single-node deployment of a containerized API application on Amazon EC2 with database on RDS 
+(Amazon Relational Database Service) using docker machine and docker compose.
 
 [Episode video link](https://youtu.be/bU9o2fVreRU)
 
@@ -57,3 +58,11 @@ docker-compose -f staging.yml stop
 docker-compose -f staging.yml start
 docker-compose -f staging.yml logs
 ```
+
+# Application source code
+
+Source code used in [episode 6](https://devteds.com/episodes/6-deploy-dockerized-web-api-application-on-amazon-ec2-with-rds) 
+is from [episode 5](https://devteds.com/episodes/5-deploy-with-docker-single-node-deployment-of-rails-api-application-on-vps)
+
+- Source code: https://github.com/devteds/e5-deploy-with-docker-rails-api-single-node
+- Docker image: https://hub.docker.com/r/devteds/rails-api-example/
