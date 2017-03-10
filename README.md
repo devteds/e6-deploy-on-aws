@@ -4,9 +4,9 @@ Devteds Episode #6
 
 Single-node deployment of a containerized API application on Amazon EC2 with database on RDS (Amazon Relational Database Service) using docker machine and docker compose.
 
-[Episode video link](https://youtu.be/4DSKgheuVns)
+[Episode video link](https://youtu.be/bU9o2fVreRU)
 
-[![Episode Video Link](https://i.ytimg.com/vi/4DSKgheuVns/hqdefault.jpg)](https://youtu.be/4DSKgheuVns)
+[![Episode Video Link](https://i.ytimg.com/vi/bU9o2fVreRU/hqdefault.jpg)](https://youtu.be/bU9o2fVreRU)
 
 ## Tested on
 
