@@ -1,6 +1,6 @@
 # README
 
-Devteds Episode #6
+Devteds [Episode #6](https://devteds.com/episodes/6-deploy-dockerized-web-api-application-on-amazon-ec2-with-rds)
 
 Single-node deployment of a containerized API application on Amazon EC2 with database on RDS (Amazon Relational Database Service) using docker machine and docker compose.
 
